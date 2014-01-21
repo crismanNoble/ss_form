@@ -80,10 +80,15 @@ Putting all the peices together we get:
 		<input type="submit" value="Submit" id="ss_submit"/>
 	</form>
 	
+###As seen on
+
+http://crisnoble.com/#contact
+
 
 ####Todos
 
-* remove unnecessary ids
 * show screenshots
 * show renedered htmls
 * document helper classes
+* decide on rendering html vs showing it
+* give all rendered html a class for styling
