@@ -1,5 +1,4 @@
 #ss_form
-=======
 
 *Stupid simple forms*
 
@@ -15,9 +14,9 @@
 ##Configure
 
 * upload the `ss_form` folder to your server
-* include the `ss_from\ss_ajax.js` file (also include jquery / zepeto)
+* include the `ss_from/ss_ajax.js` file (after including jquery / zepeto)
 * put the form into you dom
-* change the `$to` in the `ss_from\ss_mail.php` file or else I will recieve all your mails
+* change the `$to` in the `ss_from/ss_mail.php` file or else I will recieve all your mails
 * style it so as to not let it look like poop
 
 ##Requirements
